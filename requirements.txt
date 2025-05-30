@@ -3,3 +3,7 @@ pandas
 pymysql 
 sqlalchemy
 matplotlib
+scikit-learn
+seaborn
+prophet
+plotly
